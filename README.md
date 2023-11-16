@@ -8,7 +8,7 @@ Building RESTful APIs using [Django Rest Framework](https://www.django-rest-fram
 
 <p align="center">
     <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-back-end-developer-certificate">
-        <img src="images/meta-backend-cert.png" width="30%" height="30%" />
+        <img src="https://images.credly.com/size/680x680/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width="30%" height="30%" />
     </a>
 </p>
 
