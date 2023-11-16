@@ -14,6 +14,8 @@ django-admin startproject littlelemon  .
 
 # Create Django app Restaurant
 python manage.py startapp restaurant
+
+python manage.py startapp LittleLemonAPI
 ```
 
 ## Django Database Configuration and Models
@@ -47,3 +49,6 @@ mysql -u root -p 
 # 
 
 pip3 install mysqlclient 
+
+
+LittleLemonAPI
